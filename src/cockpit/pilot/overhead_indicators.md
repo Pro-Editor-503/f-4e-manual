@@ -4,7 +4,7 @@
 
 The overhead indicators offer information directly in the pilots view and aid in
 situations where the pilot is focused and looking outside, such as during combat,
-landing or refueling with a tanker.
+landing, or refueling with a tanker.
 
 ## SHOOT Lights
 
@@ -44,7 +44,7 @@ sequence information to the pilot.
 
 A standard magnetic compass for backup navigation assistance should the primary
 flight director systems fail. The compass should only be used in level flight. Compass deviation
-cards are found above the right canopy sill on each cockpit.
+cards are found above the right canopy sill in each cockpit.
 
 ## Angle of Attack Indexer Lights
 
