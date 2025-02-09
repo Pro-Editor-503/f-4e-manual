@@ -2,9 +2,9 @@
 
 ![DSCG Controls](../../img/pilot_dscg_overview.jpg)
 
-The Digital Scan Converter Group (DSCG) refers to the screen used to display
+The Digital Scan Converter Group (DSCG) is the screen used to display
 radar data and video feed of TV weapons or targeting pods. The DSCG replaces the
-Direct View Storage Tube radar scopes which could not interact with the digital
+Direct View Storage Tube radar scopes, which could not interact with digital
 interfaces.
 
 > 💡 The selector for the video source is found on the
@@ -29,7 +29,7 @@ repeater.
 
 The lever (<num>4</num>) changes the optical sight light source to prevent damage to the optics from
 high
-sunlight. Is used [after landing](../../procedures/landing/checklists.md#after-landing)
+sunlight. It's used [after landing](../../procedures/landing/checklists.md#after-landing)
 to prevent damage to the sight when parked.
 
 ## Reticle Depression Knob
@@ -37,7 +37,7 @@ to prevent damage to the sight when parked.
 ![RetDepress](../../img/pilot_dscg_reticle_depression_knob.jpg)
 
 The reticle depression knob (<num>11</num>) controls manual depression in 1 mil increments from 0 to
-245 mil. The manual depression is used for
+245 mil. Manual depression is used for
 [direct delivery bombing](../../procedures/bombs/bombs_direct_delivery.md) and delivery of
 the [AGM-65 Maverick](../../stores/air_to_ground/missiles/maverick.md).
 
@@ -106,7 +106,7 @@ is within range parameters.
 
 The HOLD ALT light (<num>10</num>) illuminates as an instruction to the pilot from the fire
 control system to maintain current altitude to assist in a snap-up intercept
-situation against a target above the fighter. The predicates are:
+situation against a target above the fighter. The conditions are:
 
 - A range greater than the weapon can make,
 - Altitude in excess than 32,000 feet, and
