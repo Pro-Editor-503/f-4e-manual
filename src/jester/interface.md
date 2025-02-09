@@ -1,7 +1,7 @@
 # Interface
 
-Jesters user interface allows for easy communication and access to various
-settings mid-flight, conveniently even during high stress situations.
+Jester's user interface allows for easy communication and access to various
+settings mid-flight, conveniently even during high-stress situations.
 
 ## Wheel
 
@@ -66,7 +66,7 @@ actions pops up at the bottom of the screen.
 Most actions are temporary and expire if not engaged with, in which case Jester
 will either ignore the question or will assume a reasonable response.
 
-It is possible for up to 3 actions to be available at the same time, the pilot
+It is possible for up to 3 actions to be available at the same time; the pilot
 can then select which question to engage with.
 
 ![Dialog Selection](../img/jester_dialog_ui.jpg)
